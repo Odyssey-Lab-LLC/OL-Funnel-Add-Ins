@@ -21,9 +21,9 @@
 .gradient-text h6, 
 .gradient-text p, 
 .gradient-text span {
-    color: #5f39ff;
+    color: #5f39ff; 
     background-image: linear-gradient(45deg, #20d9a1 0%, #5f39ff 100%);
     background-clip: text;
     -webkit-background-clip: text;
-    -webkit-text-fill-color: 
+    -webkit-text-fill-color: transparent;
 }
